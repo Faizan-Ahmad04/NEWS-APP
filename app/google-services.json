@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61948067090",
+    "project_id": "signup-login-firsebase",
+    "storage_bucket": "signup-login-firsebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61948067090:android:048907850fb829784b47cb",
+        "android_client_info": {
+          "package_name": "com.example.allnewshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61948067090-jj0nome0jnbo02qlp2rmkm25tbfc1iqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_De2dOXGWPtjaQ1NTmXBgg670jKCcs1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61948067090-jj0nome0jnbo02qlp2rmkm25tbfc1iqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
